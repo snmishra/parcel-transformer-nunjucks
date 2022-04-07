@@ -1,7 +1,7 @@
 {
   "name": "@snmishra/parcel-transformer-nunjucks",
   "repository": "https://github.com/snmishra/parcel-transformer-nunjucks",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "source": "src/index.js",
   "main": "dist/index.js",
   "license": "MIT",
